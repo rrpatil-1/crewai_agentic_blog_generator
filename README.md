@@ -2,6 +2,7 @@
 
 This project is a Streamlit application that generates blog posts about any topic using AI Agents. It leverages the CrewAI framework, Gemini LLM, and SerperDevTool for comprehensive research and content creation.
 
+![web_ui](image.png)
 ## Features
 
 - Generate blog posts on any topic
@@ -12,7 +13,7 @@ This project is a Streamlit application that generates blog posts about any topi
 
 1. Clone the repository:
     ```sh
-    git clone <repository_url>
+    git clone https://github.com/rrpatil-1/crewai_agentic_blog_generator
     cd Crew_ai_agent
     ```
 
